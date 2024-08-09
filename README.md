@@ -1,6 +1,8 @@
 # SPA-Template
 Single Page Application Template 
 
+![Image](./Docs/Preview.jpg)
+
 Technologies:
 - PNPM 
 - Vite 
